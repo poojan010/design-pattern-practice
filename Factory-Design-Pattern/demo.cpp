@@ -17,7 +17,7 @@ class Car : public Vehicle{
 class Bike : public Vehicle{
     public: 
         void createVehicle(){
-            cout << "Creating Bike Bike." << endl;
+            cout << "Creating Vehicle Bike." << endl;
         }    
 };
 
